@@ -2,6 +2,7 @@ name: Meow
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.32822
+title: test
 cta:
   domain: null
   bucket: null
